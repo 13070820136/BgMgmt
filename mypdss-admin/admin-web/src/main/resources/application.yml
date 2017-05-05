@@ -1,0 +1,7 @@
+spring:
+  application:
+  profiles:
+  active: dev
+server:
+  port: 8081
+  context-path: /demo
